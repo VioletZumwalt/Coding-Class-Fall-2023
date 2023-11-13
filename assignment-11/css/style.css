@@ -1,0 +1,173 @@
+div{
+    text-align: left;
+    font-family: Sansy;
+    font-style: normal;
+    margin: 10px;
+}
+
+.title{
+    font-family: Sansy;
+    font-size: 80px;
+    text-shadow: -6px 2px 0 #000;
+    color:aliceblue;
+    background-color:#a9a9a9;
+    height: 100px;
+    text-align: center;
+}
+
+#neuromirror{
+    font-family: Advanced;
+    font-weight: 900;
+}
+
+.main-container {
+    
+    /* Border */
+    border-style: dashed;
+    border-width: 20px;
+    border-color: rgb(53, 0, 128);
+    /*spacing. */
+    padding: 20px;
+    /* Background */
+    background : rgb(157, 157, 157);
+    width: 60%;
+    margin: auto;
+}
+
+
+
+#bubkes:hover:after {
+
+    content: "Not a word for polite company. Bubkes or bobkes may be related to the Polish word for “beans”, but it really means “goat droppings” or “horse droppings.” It’s often used by American Jews for “trivial, worthless, useless, a ridiculously small amount” – less than nothing, so to speak. “After all the work I did, I got bupkes!”";
+    font-weight: 400;
+    color: rebeccapurple;
+    font-style: italic;
+}
+
+#glitch:hover:after {
+
+    content: "Or glitsh. Literally “slip,” “skate,” or “nosedive,” which was the origin of the common American usage as “a minor problem or error.”";
+    font-weight: 400;
+    color: rebeccapurple;
+    font-style: italic;
+}
+
+#goy:hover:after {
+
+    content: "A non-Jew, a Gentile. As in Hebrew, one Gentile is a goy, many Gentiles are goyim, the non-Jewish world ingeneral is “the goyim.” Goyish is the adjective form. Putting mayonnaise on a pastrami sandwich is goyish. Putting mayonnaise on a pastrami sandwich on white bread is even more goyish.";
+    font-weight: 400;
+    color: rebeccapurple;
+    font-style: italic;
+}
+
+#Klutz:hover:after {
+
+    content: "Or better yet, klots. Literally means “a block of wood,” so it’s often used for a dense, clumsy or awkward person. See schlemiel.";
+    font-weight: 400;
+    color: rebeccapurple;
+    font-style: italic;
+}
+
+#Kosher:hover:after {
+
+    content: "Something that’s acceptable to Orthodox Jews, especially food. Other Jews may also “eat kosher” on some level but are not required to. Food that Orthodox Jews don’t eat – pork, shellfish, etc. – is called traif. An observant Jew might add, “Both pork and shellfish are doubtlessly very tasty. I simply am restricted from eating it.” In English, when you hear something that seems suspicious or shady, you might say, “That doesn’t sound kosher.”";
+    font-weight: 400;
+    color: rebeccapurple;
+    font-style: italic;
+}
+
+#Nosh:hover:after {
+
+    content: "Or nash. To nibble; a light snack, but you won’t be light if you don’t stop noshing. Can also describe plagarism, though not always in a bad sense; you know, picking up little pieces for yourself.";
+    font-weight: 400;
+    color: rebeccapurple;
+    font-style: italic;
+}
+
+#Klutz:hover:after {
+
+    content: "Or better yet, klots. Literally means “a block of wood,” so it’s often used for a dense, clumsy or awkward person. See schlemiel.";
+    font-weight: 400;
+    color: rebeccapurple;
+    font-style: italic;
+}
+
+#Shlemiel:hover:after {
+
+    content: "A clumsy, inept person, similar to a klutz (also a Yiddish word). The kind of person who always spills his soup.";
+    font-weight: 400;
+    color: rebeccapurple;
+    font-style: italic;
+}
+
+#Shlimazel:hover:after {
+
+    content: "Someone with constant bad luck. When the shlemiel spills his soup, he probably spills it on the shlimazel. Fans of the TV sitcom “Laverne and Shirley” remember these two words from the Yiddish-American hopscotch chant that opened each show.";
+    font-weight: 400;
+    color: rebeccapurple;
+    font-style: italic;
+}
+
+#shmooze:hover:after {
+
+    content: "Chat, make small talk, converse about nothing in particular. But at Hollywood parties, guests often schmooze with people they want to impress";
+    font-weight: 400;
+    color: rebeccapurple;
+    font-style: italic;
+}
+
+#schmuck:hover:after {
+
+    content: "Often used as an insulting word for a self-made fool, but you shouldn’t use it in polite company at all, since it refers to male anatomy.";
+    font-weight: 400;
+    color: rebeccapurple;
+    font-style: italic;
+}
+
+#spiel:hover:after {
+
+    content: "A long, involved sales pitch, as in, “I had to listen to his whole spiel before I found out what he really wanted.” From the German word for play.";
+    font-weight: 400;
+    color: rebeccapurple;
+    font-style: italic;
+}
+
+#shmutz:hover:after {
+
+    content: "Or shmuts. Dirt – a little dirt, not serious grime. If a little boy has shmutz on his face, and he likely will, his mother will quickly wipe it off. It can also mean dirty language. It’s not nice to talk shmutz about shmutz. A current derivation, “schmitzig,” means a “thigamabob” or a “doodad,” but has nothing to do with filth.";
+    font-weight: 400;
+    color: rebeccapurple;
+    font-style: italic;
+}
+
+#shtick:hover:after {
+
+    content: "Something you’re known for doing, an entertainer’s routine, an actor’s bit, stage business; a gimmick often done to draw attention to yourself.";
+    font-weight: 400;
+    color: rebeccapurple;
+    font-style: italic;
+}
+
+#tchatchke:hover:after {
+
+    content: "Or tshatshke. Knick-knack, little toy, collectible or giftware. It also appears in sentences such as, “My brother divorced his wife for some little tchatchke.” You can figure that one out.";
+    font-weight: 400;
+    color: rebeccapurple;
+    font-style: italic;
+}
+
+#tuchus:hover:after {
+
+    content: "Rear end, bottom, backside, buttocks. In proper Yiddish, it’s spelled tuchis or tuches or tokhis, and was the origin of the American slang word tush.";
+    font-weight: 400;
+    color: rebeccapurple;
+    font-style: italic;
+}
+
+#Yiddish:hover {
+    background: url("../images/yiddish.png");
+    float: right;
+    display: block;
+    width: 500px;
+    height: 400px;
+}
