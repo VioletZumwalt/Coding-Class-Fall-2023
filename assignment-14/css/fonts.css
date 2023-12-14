@@ -1,0 +1,23 @@
+@font-face{
+    font-family:'Sansy';
+    src: url('../fonts/ADHE\ Regular\ FREE.ttf') format('truetype');
+    font-style: 'normal';
+}
+
+@font-face{
+    font-family: 'Sansy';
+    src: url('../fonts/ADHE\ SANS\ Bold\ FREE.ttf') format('truetype');
+    font-style: 'bold';
+}
+
+@font-face{
+    font-family:'Advanced';
+    src: url('../fonts/advanced_sans_serif_7.ttf') format('truetype');
+    font-style: 'normal';
+}
+
+@font-face{
+    font-family:'Advanced';
+    src: url('../fonts/advanced_sans_serif_7_bold.ttf') format('truetype');
+    font-style: 'bold';
+}
